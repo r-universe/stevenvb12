@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "patternize"]
 	path = patternize
 	url = https://github.com/stevenvb12/patternize
-	shallow = true
-	registered = true
